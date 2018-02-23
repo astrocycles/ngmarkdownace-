@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  content = '![image](https://media.giphy.com/media/y9Tia8PxQMlhK/giphy.gif)';
+  preRenderFunc = '';
+  mode = '';
+  options = '';
 }
